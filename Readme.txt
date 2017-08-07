@@ -1,0 +1,1 @@
+This folder contains a Data subfolder (to store all the data) and a Paper subfolder, which contains all the scripts, graphs, and other manuscript information.
